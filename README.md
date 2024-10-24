@@ -77,3 +77,10 @@ usuario1.solicitar_emprestimo(livro1)
 # Devolver um livro
 usuario1.devolver_livro(livro1)
 ```
+
+### Clonando o Repositório
+
+Para clonar este repositório em sua máquina local, utilize o seguinte comando:
+
+```bash
+git clone https://github.com/NickesMelo/sistema_gestao_biblioteca
